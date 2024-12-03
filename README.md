@@ -38,9 +38,9 @@ Backend Developer specializing in JavaScript, TypeScript, Python, and PHP.
 </p>
 
 ## 🔥 Streak Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsfzxx&theme=radical" alt="rsfzxx" />
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsfzxx&theme=radical" alt="GitHub Streak" />
+</a>
 
 ## 🌱 Current Focus
 - Working on Sibayar project
