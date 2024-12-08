@@ -46,6 +46,7 @@ Backend Developer specializing in JavaScript, TypeScript, Python, and PHP.
 - Working on Sibayar project
 - Learning TypeScript and Microservices architecture
 - Open to collaborate on Automation Projects and Mobile Apps
+- Come on, contact me
 
 ## 📫 Connect with Me
 <p align="left">
