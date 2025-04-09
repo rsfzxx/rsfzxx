@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Risman Muhammad Hafidz (rsfzxx) 
-      
+# Hi there! 👋 I'm Risman Muhammad Hafidz (rsfzxx)
 Backend Developer   specializing in JavaScript, TypeScript, Python, and PHP. 
  
 ## 🛠️ Tech Stack & Tools 
