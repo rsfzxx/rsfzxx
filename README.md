@@ -7,7 +7,7 @@ Backend Developer     specializing in JavaScript, TypeScript, GO, Python, and PH
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
 </p>
-      
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
