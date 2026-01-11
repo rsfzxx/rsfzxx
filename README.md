@@ -14,7 +14,7 @@ Backend Developer     specializing in JavaScript, TypeScript, GO, Python, and PH
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
 </p>
- 
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
