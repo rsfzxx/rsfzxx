@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Risman Muhammad Hafidz (rsfzxx)
 Backend Developer     specializing in JavaScript, TypeScript, GO, Python, and PHP.
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>   
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>  
